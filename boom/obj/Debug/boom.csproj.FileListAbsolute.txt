@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\boom\boom\bin\Debug\Interop.WMPLib.dll
+C:\Users\david\source\repos\boom\boom\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\david\source\repos\boom\boom\obj\Debug\boom.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\boom\boom\obj\Debug\Interop.WMPLib.dll
+C:\Users\david\source\repos\boom\boom\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\david\source\repos\boom\boom\obj\Debug\boom.csproj.ResolveComReference.cache
+C:\Users\david\source\repos\boom\boom\obj\Debug\boom.csproj.GenerateResource.cache
+C:\Users\david\source\repos\boom\boom\obj\Debug\boom.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\boom\boom\obj\Debug\Generic.Form1.resources
+C:\Users\david\source\repos\boom\boom\obj\Debug\Generic.Properties.Resources.resources
+C:\Users\david\source\repos\boom\boom\bin\Debug\sandbox.exe.config
+C:\Users\david\source\repos\boom\boom\bin\Debug\sandbox.exe
+C:\Users\david\source\repos\boom\boom\bin\Debug\sandbox.pdb
+C:\Users\david\source\repos\boom\boom\obj\Debug\sandbox.exe
+C:\Users\david\source\repos\boom\boom\obj\Debug\sandbox.pdb

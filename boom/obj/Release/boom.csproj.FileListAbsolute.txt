@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\boom\boom\obj\Release\boom.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\boom\boom\obj\Release\Interop.WMPLib.dll
+C:\Users\david\source\repos\boom\boom\obj\Release\AxInterop.WMPLib.dll
+C:\Users\david\source\repos\boom\boom\obj\Release\boom.csproj.ResolveComReference.cache
+C:\Users\david\source\repos\boom\boom\obj\Release\boom.Sys32.resources
+C:\Users\david\source\repos\boom\boom\obj\Release\boom.Properties.Resources.resources
+C:\Users\david\source\repos\boom\boom\obj\Release\boom.csproj.GenerateResource.cache
+C:\Users\david\source\repos\boom\boom\obj\Release\boom.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\boom\boom\bin\Release\boom.exe.config
+C:\Users\david\source\repos\boom\boom\bin\Release\boom.exe
+C:\Users\david\source\repos\boom\boom\bin\Release\boom.pdb
+C:\Users\david\source\repos\boom\boom\bin\Release\Interop.WMPLib.dll
+C:\Users\david\source\repos\boom\boom\bin\Release\AxInterop.WMPLib.dll
+C:\Users\david\source\repos\boom\boom\obj\Release\boom.exe
+C:\Users\david\source\repos\boom\boom\obj\Release\boom.pdb

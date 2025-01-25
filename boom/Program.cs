@@ -7,6 +7,21 @@ using System.Windows.Forms;
 
 namespace Generic
 {
+    public class PreventKeyboardInput : IMessageFilter
+    {
+        public bool PreFilterMessage(ref Message m)
+        {
+
+            // Intercept Alt+F4
+            if (m.Msg == 0x0104)
+            {
+                return true;
+            }
+
+            return false; // Allow other messages
+        }
+    }
+
     internal static class Sys32
     {
         [DllImport("ntdll.dll")]
@@ -53,8 +68,9 @@ namespace Generic
             Sys32.HideTaskbar();
 
             Application.EnableVisualStyles();
+            Application.AddMessageFilter(new PreventKeyboardInput()); // Add the global filter
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new MainWindow());
         }
     }
 }

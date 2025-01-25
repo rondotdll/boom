@@ -13,3 +13,11 @@ C:\Users\david\source\repos\boom\boom\bin\Release\Interop.WMPLib.dll
 C:\Users\david\source\repos\boom\boom\bin\Release\AxInterop.WMPLib.dll
 C:\Users\david\source\repos\boom\boom\obj\Release\boom.exe
 C:\Users\david\source\repos\boom\boom\obj\Release\boom.pdb
+C:\Users\david\Desktop\boom-main\boom\obj\Release\boom.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\boom-main\boom\obj\Release\Interop.WMPLib.dll
+C:\Users\david\Desktop\boom-main\boom\obj\Release\AxInterop.WMPLib.dll
+C:\Users\david\Desktop\boom-main\boom\obj\Release\boom.csproj.ResolveComReference.cache
+C:\Users\david\Desktop\boom-main\boom\obj\Release\Generic.MainWindow.resources
+C:\Users\david\Desktop\boom-main\boom\obj\Release\Generic.Properties.Resources.resources
+C:\Users\david\Desktop\boom-main\boom\obj\Release\boom.csproj.GenerateResource.cache
+C:\Users\david\Desktop\boom-main\boom\obj\Release\boom.csproj.CoreCompileInputs.cache
